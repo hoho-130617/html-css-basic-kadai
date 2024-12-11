@@ -77,4 +77,12 @@ a:hover {
     #parent {
         display: block;
     }
+
+    h2 {
+        font-size: 30px;
+    }
+
+    p {
+        font-size: 25px;
+    }
 }
